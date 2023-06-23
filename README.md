@@ -1,6 +1,7 @@
 # tailvad
 PiHole with Tailscale and Wireguard installed connecting to Mullvad
 
+
 ## Instructions
 1. Clone repo ```git clone https://github.com/cfios4/tailvad.git```
 2. Edit ```wg0.conf``` with your ```.conf``` for external peer
